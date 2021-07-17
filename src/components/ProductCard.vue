@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import plus from "../assets/plus.svg";
+import plus from "../assets/pls.svg";
 export default {
   props: {
     product: {
