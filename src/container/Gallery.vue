@@ -128,6 +128,7 @@ export default {
 }
 .btn-secondary {
   margin-right: 15px !important;
+  color: black;
 }
 .gallerynav {
   display: flex;
