@@ -46,7 +46,7 @@ export default {
   height: 100vh;
 }
 .header-heading {
-  color: white;
+  color: rgb(2, 1, 1);
   font-size: 45px;
   text-transform: capitalize;
   font-weight: bold;
